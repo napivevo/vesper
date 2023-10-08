@@ -1,0 +1,23 @@
+{
+
+  "name": "Paragliders",
+  "icon": "paraglider:paraglider",
+  "category": "patchouli:items",
+  "read_by_default": "false",
+  "pages": [
+
+    {
+      "type": "patchouli:text",
+      "text": "On your journeys you will encounter terrain so rough a horse just won't cut it.$(br2)In those situations, taking to the skies may be your best bet."
+    },
+
+    {
+      "type": "patchouli:crafting",
+      "recipe": "paraglider:paraglider",
+      "title": "",
+      "text": ""
+    }
+
+  ]
+
+}

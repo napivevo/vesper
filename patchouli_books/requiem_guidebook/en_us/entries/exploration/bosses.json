@@ -1,0 +1,86 @@
+{
+    "name": "Bosses",
+    "icon": "born_in_chaos_v1:shattered_skull",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Each dimension in Requiem has its own set of bosses that must be defeated to progress to the next.$(br2)Here, you will learn how to reach them."
+        },
+        {
+            "title": "The Overworld",
+            "type": "patchouli:text",
+            "text": "These bosses must be defeated in the $(2)Overworld$() to access the $(4)Nether$()."
+        },
+		{
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:kjs_meetyourfight_haunted_bell",
+            "title": "The Bellringer",
+            "text": "A powerful grave spirit heeding those who call it, the $(3)Bellringer$() must be summoned through the ringing of its ritual bell."
+		},
+		{
+                  "type": "patchouli:crafting",
+                  "recipe": "minecraft:kjs_meetyourfight_devils_ante",
+                  "title": "Dame Fortuna",
+                  "text": "Always willing to play a game of chance, $(4)Dame Fortuna$() can be brought forth with an invitation to take part in a match."
+
+		},
+		{
+                  "type": "patchouli:crafting",
+                  "recipe": "minecraft:kjs_meetyourfight_dusk_key",
+                  "title": "Rosalyne",
+                  "text": "The final obstacle in your reaching the Nether, $(2)Roysaline$() awaits the presentation of her key."
+		},
+            {
+            "title": "The Nether",
+            "type": "patchouli:text",
+            "text": "These bosses must be defeated in the $(4)Nether$() to access the $(3)Twilight Forest$()."
+            },  
+		{
+            "type": "patchouli:spotlight",
+            "item": "cataclysm:burning_ashes",
+            "title": "Ignis",
+            "text": "$(8)Ignis$() sleeps within its citadel.$(br2)It awaits the day the ashes of one of its guards are placed upon its altar so it can finally face the champion it longs for.$(br2)An Eye of Flame can be crafted to aid in finding its citadel."
+		},
+		{
+            "type": "patchouli:spotlight",
+            "item": "cataclysm:infernal_forge",
+            "title": "Netherite Monstrosity",
+            "text": "The $(6)Netherite Monstrosity$() sits inactive in the forge of its creation, waiting for someone to claim its key piece.$(br2)An Eye of Monstrosity can be crafted to aid in finding its forge."
+		},
+		{
+            "type": "patchouli:spotlight",
+            "item": "minecraft:wither_skeleton_skull",
+            "title": "The Wither",
+            "text": "$(5)The Wither$() is a beast needing no introduction.$(br2)Bring it forth and kill it to get one step closer to reaching the Twilight Forest."
+		},
+        {
+            "title": "The Twilight Forest",
+            "type": "patchouli:text",
+            "text": "These bosses must be defeated in the $(3)Twilight Forest$() to access the End.$(br2)Unlike the other dimensions, progression in the $(3)Twilight Forest$() is completely linear."
+		},
+		{
+            "type": "patchouli:spotlight",
+            "item": "twilightforest:naga_scale",
+            "title": "Naga",
+            "text": "$(2)Naga$() awaits a seeker in its grand maze.$(br2)Find this maze and show it the error of its ways."
+		},
+		{
+            "type": "patchouli:spotlight",
+            "item": "twilightforest:fortification_scepter",
+            "title": "The Lich",
+            "text": "Once the Naga has been slain, the magical shield protecting the $(3)Lich's$() tower will drop.$(br2) Enter the tower and meet the $(3)Lich$() firsthand."
+		},
+		{
+            "type": "patchouli:spotlight",
+            "item": "twilightforest:fiery_blood",
+            "title": "The Hydra",
+            "text": "With a scepter in hand, you may dispel the obstacles of the fire swamp and come upon the $(4)Hydra's$() lair.$(br2)Pour the $(4)Hydra's$() fiery blood upon some Ender Pearls and finally, the End may be reached."
+		},
+        {
+            "title": "The End.",
+            "type": "patchouli:text",
+            "text": "It is unknown what awaits in the End."
+		}
+    ]
+}

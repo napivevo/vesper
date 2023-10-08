@@ -1,0 +1,29 @@
+{
+    "name": "Armor And Weapons",
+    "icon": "minecraft:iron_sword",
+    "category": "patchouli:items",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The world of Requiem features a huge collection of new weapons and armor to be found and crafted.$(br2)Each weapon has its own unique swing pattern so choose yours carefully.$(br2)Most of these new additions can be viewed by typing $(2)'@epicknightsmod'$() into JEI."
+        },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "magistuarmory:steel_zweihander",
+      "title": "",
+      "text": "This is just one of the plethora of new weapons available.$(br2)For information on the new material tier, $(1)steel$(), see the Create page. "
+    },
+    {
+        "type": "patchouli:crafting",
+        "recipe": "minecraft:kjs_musketmod_musket",
+        "title": "",
+        "text": "New flintlock weaponry adds an incredibly powerful, though costly and somewhat inaccurate, mid-game alternative to traditional bows and arrows."
+      },
+      {
+        "type": "patchouli:crafting",
+        "recipe": "archers_paradox:explosive_arrow",
+        "title": "",
+        "text": "However, bows haven't fallen behind.$(br2)A plethora of unique new ammunition is available that can be viewed by typing $(2)'@archer'$() into JEI."
+      }
+    ]
+}

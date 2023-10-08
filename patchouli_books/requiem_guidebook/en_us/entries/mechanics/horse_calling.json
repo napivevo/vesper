@@ -1,0 +1,16 @@
+{
+    "name": "Horse Calling",
+    "icon": "magistuarmory:chainmail_horse_armor",
+    "category": "patchouli:mechanics",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Horses are much more reliable in the world of Requiem.$(br2)To set a personal horse, sit on one and press the $(2)'P'$() key, you can only have one at any given time.$(br2)Once claimed, a horse can be called to you reguardless of how far you are from it in the world, press $(2)'V'$() to do this."
+        },
+				{
+            "type": "patchouli:text",
+			"title": "",
+            "text": "P.S. you can jump while riding in boats!"
+        }
+    ]
+}

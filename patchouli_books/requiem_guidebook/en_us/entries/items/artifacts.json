@@ -1,0 +1,17 @@
+{
+    "name": "Artifacts",
+    "icon": "artifacts:cross_necklace",
+    "category": "patchouli:items",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Hidden deep within the bowels of this world and the coffers of various creatures are powerful artifacts.$(br2)These artifacts take the form of various accessories, little is known about their nature."
+        },
+    {
+      "type": "patchouli:spotlight",
+      "item": "artifacts:cross_necklace",
+      "title": "Cross Necklace",
+      "text": "This is just one of the many artifacts available."
+    }
+    ]
+}

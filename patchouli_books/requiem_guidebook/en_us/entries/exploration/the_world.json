@@ -1,0 +1,18 @@
+{
+    "name": "The World",
+    "icon": "minecraft:oak_sapling",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+			"title": "Seasons",
+            "text": "The four standard seasons are present, each bringing their own changes to the in-game world. You may notice that oceans are much easier to cross in winter, for example.$(br2)Requiem is also much darker than vanilla minecraft, depending on the moon phase a night can become pitch black."
+        },
+		
+	    {
+      "type": "patchouli:text",
+      "title": "",
+      "text": "The underground is always pitch black, reguardless of the moon phase.$(br2)A torch will be needed to see anything at all during these blackouts, torches will continue to function while held.$(br2)Ores very rarely form outside of caves, meaning you'll need to go spelunking to progress."
+        }
+    ]
+}

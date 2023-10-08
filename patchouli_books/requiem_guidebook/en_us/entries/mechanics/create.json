@@ -1,0 +1,16 @@
+{
+    "name": "Create",
+    "icon": "create:wrench",
+    "category": "patchouli:mechanics",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You can make many contraptions and machines fufilling various roles in the world of Requiem through Create.$(br2)Among the most useful of these is the mixer, as after firing it up with a blaze burner it can be used to create steel for more powerful weapons and armor.$(br2)"
+        },
+				{
+            "type": "patchouli:text",
+			"title": "",
+            "text": "Create is a mod too complicated to be entirely covered in this entry.$(br2)The best way for you to get acclimated to its features is to look up $(l)'@create'$() in JEI and use the ponder feature to get a grasp on how the various mechanisms work."
+        }
+    ]
+}
