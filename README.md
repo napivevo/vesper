@@ -29,3 +29,5 @@ Rare invasions of varying difficulty will always keep you on your toes. Build st
 Along with combative progression comes technological. Innovation is key in staying alive in a scrappy world, build grand contraptions or smelt down iron into steel so that you always have an edge.
 
 ![A steam engine drawing power from an icy river.](https://i.imgur.com/W5gkhj8.png)
+
+https://www.curseforge.com/minecraft/modpacks/mungcraft-requiem
