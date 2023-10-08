@@ -1,0 +1,15 @@
+
+["Shader Lights"]
+	process_and_render_lights = true
+	#Range: 4 ~ 256
+	x_tile_divisions = 24
+	#Range: 4 ~ 256
+	y_tile_divisions = 16
+	#Range: 4 ~ 1024
+	max_lights = 256
+	#Range: 4 ~ 256
+	max_lights_per_tile = 48
+
+["Screen Tonemapping"]
+	process_and_render_screen_tonemapping = true
+
