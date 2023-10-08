@@ -4,23 +4,27 @@
   "versions": [
     {
       "id": "3.0.0",
-      "releasedAt": 1689470265689
+      "releasedAt": 1696605010000
     },
     {
       "id": "3.0.1",
-      "releasedAt": 1689470265690
+      "releasedAt": 1696605010001
     },
     {
       "id": "3.0.2",
-      "releasedAt": 1689470265691
+      "releasedAt": 1696691410000
     },
     {
       "id": "3.0.3",
-      "releasedAt": 1689470265692
+      "releasedAt": 1696691410001
     },
     {
       "id": "3.0.4",
-      "releasedAt": 1689470265693
+      "releasedAt": 1696777810000
+    }
+    {
+      "id": "3.0.5",
+      "releasedAt": 1696777810001
     }
   ]
 }
