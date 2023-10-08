@@ -19,7 +19,7 @@ A linear progression system has been added with ***_*9*_*** required bosses in t
 
 You won't be able to survive the world of Requiem alone. Build a kingdom filled with citizens of all walks of life to ensure you won't have to. From resource gathering to building grand structures, colonists serve a variety of purposes. 
 
-![enter image description here](https://i.imgur.com/aWMNDkJ.png)
+![A small kingdom finds respite in a dense forest.](https://i.imgur.com/aWMNDkJ.png)
 ## Invasions
 Rare invasions of varying difficulty will always keep you on your toes. Build strong defenses so you can be sure the next horde won't be your last.
 
