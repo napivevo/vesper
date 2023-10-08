@@ -1,0 +1,46 @@
+Created progression stages for mobs being released into the world
+Added new ranged weapons & ammo
+Removed Passive Skill Tree
+Removed Supplementaries Squared
+Added Abundant Atmosphere
+Added All Arrows Infinity Fix
+Added Ambient Environment
+Added Better Chunk Loading
+Added Biome Music
+Added Canary
+Added Chunk Sending
+Added CullLessLeaves Reforged
+Added Enhanced Block Entities Reforged
+Added FastSuite
+Added FerriteCore
+Added FixMySpawnR
+Added ForgetMeChunk
+Added Handcrafted
+Added ImmediatelyFast Reforged
+Added In Control!
+Added Incubation
+Added It Shall Not Tick
+Added Krypton Reforged
+Added Ksyxis
+Added LazyDFU
+Added Let Me Despawn
+Added Log Begone
+Added LootJS
+Added MemoryLeakFix
+Added ModernFix
+Added Mutant Monsters
+Added Mutant More
+Added Numismatic Overhaul
+Added Radon
+Added Recipe Essentials
+Added Rubidium
+Added Rubidium Dynamic Lights
+Added Rubidium Extras
+Added Saturn
+Added Smooth Chunk Save
+Added Spelunker’s Charm II
+Added Starlight
+Added Stylecolonies
+Added Suggestion Provider Fix
+Added Visuality: Reforged
+Added ewewukek's Musket mod
