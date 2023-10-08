@@ -1,0 +1,8 @@
+Lowered death debuff duration
+Added spawn stage for twilight dimension
+Changed mutant monsters spawn stage twilight
+Changed netherite recipe to make it post-twilight
+Replaced all lootable netherite ingots with scrap\
+Updated several mods
+Removed Footwork API
+Added KubeJS Create
