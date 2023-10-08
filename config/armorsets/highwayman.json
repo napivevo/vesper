@@ -1,0 +1,31 @@
+{
+  "armorSetName": "Highwayman",
+  "head": {
+    "itemKey": "magistuarmory:barbute",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "magistuarmory:brigandine_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "magistuarmory:cuirassier_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "magistuarmory:gambeson_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:strength",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

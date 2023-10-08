@@ -1,0 +1,31 @@
+{
+  "armorSetName": "Tank",
+  "head": {
+    "itemKey": "magistuarmory:stechhelm",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "magistuarmory:jousting_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "magistuarmory:jousting_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "magistuarmory:jousting_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:resistance",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

@@ -1,0 +1,31 @@
+{
+  "armorSetName": "Radiant",
+  "head": {
+    "itemKey": "magistuarmory:ceremonialarmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "magistuarmory:ceremonial_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "magistuarmory:knight_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "magistuarmory:ceremonial_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:glowing",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}
