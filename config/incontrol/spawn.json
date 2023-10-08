@@ -1,0 +1,35 @@
+[
+    {
+        "mod":"mutantmonsters",
+        "gamestage":"twilight_entered",
+        "result":"default",
+        "onjoin":true
+    },
+    {
+        "mod":"mutantmonsters",
+        "result":"deny",
+        "onjoin":true
+    },
+    {
+        "mod":"mutantmore",
+        "gamestage":"nether_entered",
+        "result":"default",
+        "onjoin":true
+    },
+    {
+        "mod":"mutantmore",
+        "result":"deny",
+        "onjoin":true
+    },
+    {
+        "mod":"born_in_chaos_v1",
+        "gamestage":"nether_entered",
+        "result":"default",
+        "onjoin":true
+    },
+    {
+        "mod":"born_in_chaos_v1",
+        "result":"deny",
+        "onjoin":true
+    }
+]
