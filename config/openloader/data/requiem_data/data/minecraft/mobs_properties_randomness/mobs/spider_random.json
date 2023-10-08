@@ -1,0 +1,32 @@
+{
+    "mob_id": "minecraft:spider",
+    "attributes": [
+        {
+            "id": "minecraft:generic.movement_speed",
+            "modifier_name": "Spider Speed",
+            "amount": {
+                "min": 0.00,
+                "max": 0.30
+            },
+            "operation": "multiply_base"
+        },
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Spider Health",
+            "amount": {
+                "min": 0.00,
+                "max": 0.30
+            },
+            "operation": "multiply_base"
+        },
+        {
+            "id": "minecraft:generic.attack_damage",
+            "modifier_name": "Spider Damage",
+            "amount": {
+                "min": 0.00,
+                "max": 0.30
+            },
+            "operation": "multiply_base"
+        }
+    ]
+}

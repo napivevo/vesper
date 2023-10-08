@@ -1,0 +1,32 @@
+{
+    "mob_id": "minecraft:skeleton",
+    "attributes": [
+        {
+            "id": "minecraft:generic.movement_speed",
+            "modifier_name": "Skeleton Speed",
+            "amount": {
+                "min": 0.00,
+                "max": 0.30
+            },
+            "operation": "multiply_base"
+        },
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Skeleton Health",
+            "amount": {
+                "min": 0.00,
+                "max": 0.30
+            },
+            "operation": "multiply_base"
+        },
+        {
+            "id": "minecraft:generic.attack_damage",
+            "modifier_name": "Skeleton Damage",
+            "amount": {
+                "min": 0.00,
+                "max": 0.30
+            },
+            "operation": "multiply_base"
+        }
+    ]
+}
