@@ -1,0 +1,3 @@
+HUGE update porting the modpack to 1.19.2, making several giant changes in how progression works as well as the mods installed.
+
+Also the start of the changelog!
