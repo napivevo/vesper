@@ -1,0 +1,181 @@
+#whether a mob is rotated when it is staggered.
+"mob stagger rotation" = ["example:dragon, false", "example:ghast, true"]
+
+[convenience]
+	#combat mode will be automatically engaged once you attack or get attacked by an entity if it is not already on, for this number of ticks before turning itself off. Set to 0 to disable this feature.
+	#Range: > 0
+	"auto combat mode" = 0
+	#hide the exp bar while combat mode is on to make space for the might and spirit bars.
+	"combat mode hides exp" = true
+
+[might]
+	#enable displaying this feature
+	"enable might circle" = false
+	#the point from which offsets will calculate
+	#Allowed Values: TOPLEFT, TOPCENTER, TOPRIGHT, MIDDLELEFT, CROSSHAIR, MIDDLERIGHT, BOTTOMLEFT, BOTTOMCENTER, BOTTOMRIGHT
+	"might circle anchor point" = "BOTTOMLEFT"
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"might circle x offset" = 32
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"might circle y offset" = -16
+	#enable displaying this feature
+	"enable might bar" = true
+	#the point from which offsets will calculate
+	#Allowed Values: TOPLEFT, TOPCENTER, TOPRIGHT, MIDDLELEFT, CROSSHAIR, MIDDLERIGHT, BOTTOMLEFT, BOTTOMCENTER, BOTTOMRIGHT
+	"might bar anchor point" = "BOTTOMCENTER"
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"might bar x offset" = -91
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"might bar y offset" = -29
+	#enable displaying this feature
+	"enable might number" = false
+	#the point from which offsets will calculate
+	#Allowed Values: TOPLEFT, TOPCENTER, TOPRIGHT, MIDDLELEFT, CROSSHAIR, MIDDLERIGHT, BOTTOMLEFT, BOTTOMCENTER, BOTTOMRIGHT
+	"might number anchor point" = "BOTTOMLEFT"
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"might number x offset" = 32
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"might number y offset" = -38
+	#might color in hexadecimal
+	"might color" = "ccac00"
+
+[spirit]
+	#enable displaying this feature
+	"enable spirit circle" = false
+	#the point from which offsets will calculate
+	#Allowed Values: TOPLEFT, TOPCENTER, TOPRIGHT, MIDDLELEFT, CROSSHAIR, MIDDLERIGHT, BOTTOMLEFT, BOTTOMCENTER, BOTTOMRIGHT
+	"spirit circle anchor point" = "BOTTOMLEFT"
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"spirit circle x offset" = 80
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"spirit circle y offset" = -16
+	#enable displaying this feature
+	"enable spirit bar" = true
+	#the point from which offsets will calculate
+	#Allowed Values: TOPLEFT, TOPCENTER, TOPRIGHT, MIDDLELEFT, CROSSHAIR, MIDDLERIGHT, BOTTOMLEFT, BOTTOMCENTER, BOTTOMRIGHT
+	"spirit bar anchor point" = "BOTTOMCENTER"
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"spirit bar x offset" = 4
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"spirit bar y offset" = -29
+	#enable displaying this feature
+	"enable spirit number" = false
+	#the point from which offsets will calculate
+	#Allowed Values: TOPLEFT, TOPCENTER, TOPRIGHT, MIDDLELEFT, CROSSHAIR, MIDDLERIGHT, BOTTOMLEFT, BOTTOMCENTER, BOTTOMRIGHT
+	"spirit number anchor point" = "BOTTOMLEFT"
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"spirit number x offset" = 80
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"spirit number y offset" = -38
+	#spirit color in hexadecimal
+	"spirit color" = "00e3e3"
+
+[combo]
+	#enable displaying this feature
+	"enable combo" = true
+	#the point from which offsets will calculate
+	#Allowed Values: TOPLEFT, TOPCENTER, TOPRIGHT, MIDDLELEFT, CROSSHAIR, MIDDLERIGHT, BOTTOMLEFT, BOTTOMCENTER, BOTTOMRIGHT
+	"combo anchor point" = "MIDDLERIGHT"
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"combo x offset" = -40
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"combo y offset" = -32
+
+["player posture"]
+	#enable displaying this feature
+	"enable player posture" = true
+	#the point from which offsets will calculate
+	#Allowed Values: TOPLEFT, TOPCENTER, TOPRIGHT, MIDDLELEFT, CROSSHAIR, MIDDLERIGHT, BOTTOMLEFT, BOTTOMCENTER, BOTTOMRIGHT
+	"player posture anchor point" = "BOTTOMCENTER"
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"player posture x offset" = 0
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"player posture y offset" = -57
+	#Determine which type of posture bar will be rendered. Valid values are 'classic' (ugly), 'amo' (minimalist), 'darkmega' (old), and 'newdark' (default).
+	#Allowed Values: CLASSIC, AMO, DARKMEGA, NEWDARK
+	"player posture style" = "NEWDARK"
+
+["enemy posture"]
+	#enable displaying this feature
+	"enable target posture" = true
+	#the point from which offsets will calculate
+	#Allowed Values: TOPLEFT, TOPCENTER, TOPRIGHT, MIDDLELEFT, CROSSHAIR, MIDDLERIGHT, BOTTOMLEFT, BOTTOMCENTER, BOTTOMRIGHT
+	"target posture anchor point" = "TOPCENTER"
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"target posture x offset" = 0
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"target posture y offset" = 20
+	#Determine which type of posture bar will be rendered. Valid values are 'classic' (ugly), 'amo' (minimalist), 'darkmega' (old), and 'newdark' (default).
+	#Allowed Values: CLASSIC, AMO, DARKMEGA, NEWDARK
+	"target posture style" = "NEWDARK"
+
+["your marks"]
+	#enable displaying this feature
+	"enable your marks" = true
+	#the point from which offsets will calculate
+	#Allowed Values: TOPLEFT, TOPCENTER, TOPRIGHT, MIDDLELEFT, CROSSHAIR, MIDDLERIGHT, BOTTOMLEFT, BOTTOMCENTER, BOTTOMRIGHT
+	"your marks anchor point" = "CROSSHAIR"
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"your marks x offset" = 0
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"your marks y offset" = 18
+
+["target marks"]
+	#enable displaying this feature
+	"enable target marks" = true
+	#the point from which offsets will calculate
+	#Allowed Values: TOPLEFT, TOPCENTER, TOPRIGHT, MIDDLELEFT, CROSSHAIR, MIDDLERIGHT, BOTTOMLEFT, BOTTOMCENTER, BOTTOMRIGHT
+	"target marks anchor point" = "CROSSHAIR"
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"target marks x offset" = 0
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"target marks y offset" = -18
+
+["skill cooldown"]
+	#enable displaying this feature
+	"enable skill cooldown" = true
+	#the point from which offsets will calculate
+	#Allowed Values: TOPLEFT, TOPCENTER, TOPRIGHT, MIDDLELEFT, CROSSHAIR, MIDDLERIGHT, BOTTOMLEFT, BOTTOMCENTER, BOTTOMRIGHT
+	"skill cooldown anchor point" = "BOTTOMRIGHT"
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"skill cooldown x offset" = -54
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"skill cooldown y offset" = -36
+
+[stealth]
+	#enable displaying this feature
+	"enable stealth" = true
+	#the point from which offsets will calculate
+	#Allowed Values: TOPLEFT, TOPCENTER, TOPRIGHT, MIDDLELEFT, CROSSHAIR, MIDDLERIGHT, BOTTOMLEFT, BOTTOMCENTER, BOTTOMRIGHT
+	"stealth anchor point" = "CROSSHAIR"
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"stealth x offset" = 0
+	#where the center of the HUD element should be in relation to the anchor point
+	#Range: > -2147483647
+	"stealth y offset" = 0
+

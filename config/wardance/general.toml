@@ -1,0 +1,46 @@
+
+[general]
+	#primarily tells you how much damage was applied before and after armor. These will only appear in debug.log.
+	"enable debug messages" = false
+	#used by the developer and testers to experiment with some unusual features that change from version to version. Only the dev himself really knows what this option does at any given moment. Enable at your own risk!
+	"testing mode" = false
+
+["dual wielding"]
+	#added per request. Shield bash will not work from the offhand when this is off, and clients will not render their offhand.
+	"enable dual wielding" = true
+
+[sweep]
+	#overrides vanilla sweep with a version hits all affected entities for full damage and effects and works regardless of aim. Disabling this will also disable all functions that extend this, such as flurry.
+	"enable better sweep" = true
+	#whether better sweep deals durability damage for each mob hit
+	"durability damage per hit mob" = false
+
+[compat]
+	#whether Elenai Dodge 2 compat is enabled. This disables sidesteps and rolls, turns dodging into a safety roll when staggered, and causes dodges to reset posture cooldown
+	"enable Elenai Dodge compat" = true
+	#if compat is enabled, whether posture cooldown disables feather recharging
+	"feather posture" = true
+	#if compat is enabled, whether high combo multiplies feather regeneration speed
+	"feather combo" = true
+
+[potion]
+	#whether blindness will cause mobs to drop aggro
+	"mob blindness" = true
+	#how much posture nausea deducts per tick, for mobs only
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"nausea posture damage" = 0.05
+	#how much each level of poison multiplies posture regeneration by
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"poison posture debuff" = 0.8
+	#how much the hunger effect extends the posture cooldown by
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"hunger posture extension" = 1.25
+	#how much weakness multiplies might generation rate
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"weakness might debuff" = 0.7
+	#when attacking an entity, a number between 0 and luck is rolled for both parties. The difference between the attacker's and defender's rolled values is multiplied by this and dealt as additional damage. If the target is more lucky... well, it might not be hurt at all.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"luck multiplier" = 1.5
+	#whether resistance also affects posture damage.
+	"resistance posture" = true
+

@@ -1,0 +1,12 @@
+#Number of ticks after gaining might during which it will not decrease
+#Range: > 1
+"might grace period" = 100
+#Number of ticks after consuming spirit during which it will not regenerate
+#Range: > 1
+"spirit cooldown" = 80
+#Number of ticks after consuming posture during which it will not regenerate
+#Range: > 0
+"posture cooldown" = 18
+#Here you can define custom max posture for mobs. Armor adds to this independently.
+"custom mob posture" = ["example:dragon, 100", "example:ghast, 8"]
+

@@ -1,0 +1,3 @@
+#if you have Project: War Dance installed, whether unaware stabs ignore parry, deflection, shatter, and absorption
+"unaware stab defense ignore" = true
+
