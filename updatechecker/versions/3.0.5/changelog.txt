@@ -1,4 +1,6 @@
-Added Modpack Update Checker
+Reworked item durability & damage immunity system
+Added small chance for enchanting to curse the user
+Replaced paragliders with glidersAdded Modpack Update Checker
 Added Default Options
 Added Iron’s RPG Tweaks
 Added Damage Indicator Mod
