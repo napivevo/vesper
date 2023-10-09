@@ -1,7 +1,7 @@
 {
 
-  "name": "Paragliders",
-  "icon": "paraglider:paraglider",
+  "name": "Gliders",
+  "icon": "vc_gliders:paraglider_wood",
   "category": "patchouli:items",
   "read_by_default": "false",
   "pages": [
@@ -13,9 +13,9 @@
 
     {
       "type": "patchouli:crafting",
-      "recipe": "paraglider:paraglider",
+      "recipe": "vc_gliders:paraglider_wood",
       "title": "",
-      "text": ""
+      "text": "One of the glider tiers, as you gather more durable materials you can create stronger paragliders."
     }
 
   ]
