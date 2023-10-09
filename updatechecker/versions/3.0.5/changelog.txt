@@ -1,1 +1,10 @@
-placeholder
+Added Modpack Update Checker
+Added Default Options
+Added Iron’s RPG Tweaks
+Added Damage Indicator Mod
+Added Cursery
+Added Gliders
+Added JadeColonies
+Added Majrusz's Enchantments
+Added Presence Footsteps
+Removed Paragliders
