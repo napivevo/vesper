@@ -1,1 +1,3 @@
 Rebranded to Vesper!
+Moved jade window position to make typing in chat easier
+Fixed patchouli JEI visibility
