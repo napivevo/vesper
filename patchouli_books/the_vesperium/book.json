@@ -1,0 +1,9 @@
+{
+    "name": "The Vesperium",
+    "landing_text": "Welcome to Vesper, $(playername)!$(br2)Here, guidance about what to do next is stored. As well as useful information on how to make the most out of the tools available to you.$(br2)$(4)Be wary, most of the things in this world you will have to discover for yourself.$()",
+    "version": 1,
+    "creative_tab": "minecraft:tools_and_utilities",
+    "use_resource_pack": true,
+	"show_progress": "false",
+    "show_toasts": "false"
+}

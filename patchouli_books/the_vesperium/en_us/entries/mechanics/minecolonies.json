@@ -1,0 +1,24 @@
+{
+
+  "name": "Minecolonies",
+  "icon": "minecolonies:supplycampdeployer",
+  "category": "patchouli:mechanics",
+  "read_by_default": "false",
+  "pages": [
+
+    {
+      "type": "patchouli:text",
+      "text": "To start your kingdom, make a supply camp or ship and place it somewhere in the world.$(br2)Once placed, look through the chests of the structure and find the build tool and town hall.$(br2)Finally, place the town hall using the build tool."
+    },
+
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecolonies:supplycampdeployer",
+	  "recipe2": "minecolonies:supplychestdeployer",
+      "title": "",
+      "text": ""
+    }
+
+  ]
+
+}

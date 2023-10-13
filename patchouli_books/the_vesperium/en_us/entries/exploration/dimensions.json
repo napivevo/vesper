@@ -1,0 +1,29 @@
+{
+    "name": "Dimensions",
+    "icon": "twilightforest:twilight_portal_miniature_structure",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Dimensional progression is handled differently in Vesper.$(br2)There are four dimensions: the $(2)Overworld$(), the $(4)Nether$(), the $(3)Twilight Forest$(), and the $(1)End$(). $(br2)The dimensions will be accessed in this order."
+        },
+				{
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:kjs_meetyourfight_haunted_bell",
+            "title": "The Nether",
+            "text": "Three powerful spirits guard access to the nether.$(br2)You must summon and kill the $(3)Bellringer$(), $(4)Dame Fortuna$(), and $(2)Rosalyne$() to force the gate open."
+		},
+		{
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:kjs_hellish_gem",
+			"title": "The Twilight Forest",
+            "text": "Before the Twilight Forest is accessed, $(8)Ignis$(), the $(6)Netherite Monstrosity$(), and the $(5)Wither$() must be slain.$(br2) With these creatures killed and a Hellish Gem created out of their key items, a 2x2 infinite water source surounded by mushrooms or flowers must have the gem thrown into it."
+        },
+		{
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:kjs_ender_eye",
+			"title": "The End",
+            "text": "To reach the End, you must progress along the Twilight forest normally, killing the boss of each area.$(br2)Only when you have killed the $(4)Hydra$() and mixed its fiery blood with ender pearls can you make the eyes of ender needed to reach the End."
+        }
+    ]
+}

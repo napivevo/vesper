@@ -1,0 +1,16 @@
+{
+    "name": "Invasions",
+    "icon": "minecraft:zombie_head",
+    "category": "patchouli:mechanics",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "In the world of Vesper enemies will often take the initiative in seeking you out.$(br2)This takes the form of uncommon celestial events wherein you will be unable to sleep and must fend off waves of enemies until the morning comes."
+        },
+						{
+            "type": "patchouli:text",
+			"title": "",
+            "text": "Some of these mobs have even been known to break blocks, good luck."
+        }
+    ]
+}
