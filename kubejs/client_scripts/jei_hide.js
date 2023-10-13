@@ -49,10 +49,3 @@ JEIEvents.hideItems(event => {
         'cataclysm:mech_eye'
     ])
 })
-
-//Removes DMCLoot guidebook
-JEIEvents.hideItems(event => {
-    event.hide([Item.of
-        ('patchouli:guide_book', '{"patchouli:book":"dmcloot:book_o_affixes"}')
-    ])
-})
