@@ -1,12 +1,12 @@
-# MUNGCRAFT: REQUIEM
+# Vesper
 
-_**MUNGCRAFT: REQUIEM**_ is a modpack that allows you to explore and colonize a beautiful atmospheric world. However, this world won’t sit idly by and let you prosper. A linear boss progression system means you're going to have to fight to move forward. Stronger and smarter enemies mean this will be harder than ever.
+_**Vesper**_ is a modpack that allows you to explore and colonize a beautiful atmospheric world. However, this world won’t sit idly by and let you prosper. A linear boss progression system means you're going to have to fight to move forward. Stronger and smarter enemies mean this will be harder than ever.
 
->Requiem is a purpose-built modpack. Many recipes have been changed and a guidebook has been added to ensure you always know what to do next.
+>Vesper is a purpose-built modpack. Many recipes have been changed and a guidebook has been added to ensure you always know what to do next.
 
 ## Combat
 
-Combat has been completely reworked in Requiem. Each weapon has been given its own unique animation and 
+Combat has been completely reworked in Vesper. Each weapon has been given its own unique animation and 
 swing patterns. A plethora new medieval-themed weapons and armor ensure that you’ll have no shortage of weapons to test this out on.
 
 ![A brand-new *Zweihander* is swung at a zombie.](https://i.imgur.com/KyXAk48.jpeg)
@@ -17,7 +17,7 @@ A linear progression system has been added with ***_*9*_*** required bosses in t
 ![An unfortunate player stares down the blade of a boss.](https://i.imgur.com/UFQkBA1.jpg)
 ## Minecolonies
 
-You won't be able to survive the world of Requiem alone. Build a kingdom filled with citizens of all walks of life to ensure you won't have to. From resource gathering to building grand structures, colonists serve a variety of purposes. 
+You won't be able to survive the world of Vesper alone. Build a kingdom filled with citizens of all walks of life to ensure you won't have to. From resource gathering to building grand structures, colonists serve a variety of purposes. 
 
 ![A small kingdom finds respite in a dense forest.](https://i.imgur.com/aWMNDkJ.png)
 ## Invasions
@@ -30,4 +30,4 @@ Along with combative progression comes technological. Innovation is key in stayi
 
 ![A steam engine drawing power from an icy river.](https://i.imgur.com/W5gkhj8.png)
 
-https://www.curseforge.com/minecraft/modpacks/mungcraft-requiem
+https://www.curseforge.com/minecraft/modpacks/mungcraft-Vesper
