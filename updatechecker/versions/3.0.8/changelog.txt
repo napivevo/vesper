@@ -1,4 +1,4 @@
-Note: if updating from a previous version you may want to delete your options.txt file to reset keybinds to the modpack's new default
+Note: if updating from a previous version you may want to open your controls menu and reset all to their defaults to apply the new default keybinds.
 
 DRAMATICALLY increased enemy difficulty through AI improvements and behavior changes
 Added a magic system with a new guidebook entry
