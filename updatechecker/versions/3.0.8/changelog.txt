@@ -1,0 +1,11 @@
+DRAMATICALLY increased enemy difficulty through AI improvements and behavior changes
+Added a magic system with a new guidebook entry
+Disabled blocking with epic knights weapons
+Removed various repetitive shield variants and weapons
+Increased chance of mobs being able to break blocks
+Streamlined mob armor and weapon system
+Fixed guidebook not showing up in inventory
+Removed Numismatic Overhaul
+Added Shield Expansion
+Added Iron’s Spells and Spellbooks
+Added Enhanced AI
