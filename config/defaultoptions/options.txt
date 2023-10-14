@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","quark:emote_resources","eatinganimations_compat","file/Flintl0cks_v1.0.zip","file/EclecticTrove-noconfig-1.19-1.2.0.zip","file/Visual Titles.zip","file/Unity-1.19.2-Base-2.5.0.zip","file/Unity-1.18.X-Extras-1.1.0.zip","file/Fantasy_Ores_v7.1[classic].zip","file/Fantasy_Ores_Modded_v2_shiny_ores.zip","file/STONEBORN Gear-LOW_EYES-1.19 - V2.1.zip","file/STONEBORN Odds_and_Ends -1.19 - V0.1.1.zip","file/Crops-3D_MC1.19_v1.2.0.zip","packmenu","resources/requiem_tweaks"]
+resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","quark:emote_resources","eatinganimations_compat","file/Flintl0cks_v1.0.zip","file/EclecticTrove-noconfig-1.19-1.2.0.zip","file/Visual Titles.zip","file/Unity-1.19.2-Base-2.5.0.zip","file/Unity-1.18.X-Extras-1.1.0.zip","file/Fantasy_Ores_v7.1[classic].zip","file/Fantasy_Ores_Modded_v2_shiny_ores.zip","dynamic_asset_generator:assets","file/STONEBORN Gear-LOW_EYES-1.19 - V2.1.zip","file/STONEBORN Odds_and_Ends -1.19 - V0.1.1.zip","file/Crops-3D_MC1.19_v1.2.0.zip","packmenu","resources/vesper_tweaks"]
 incompatibleResourcePacks:["quark:emote_resources","file/Unity-1.18.X-Extras-1.1.0.zip","file/Fantasy_Ores_v7.1[classic].zip","packmenu"]
 lastServer:
 lang:en_us
