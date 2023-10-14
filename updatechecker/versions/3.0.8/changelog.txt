@@ -1,3 +1,5 @@
+Note: if updating from a previous version you may want to delete your options.txt file to reset keybinds to the modpack's new default
+
 DRAMATICALLY increased enemy difficulty through AI improvements and behavior changes
 Added a magic system with a new guidebook entry
 Disabled blocking with epic knights weapons
