@@ -1,0 +1,10 @@
+Tweaked mob stage difficulty
+Adjusted stack size
+Added new parkour system with guidebook entry
+Updated Several Mods
+Removed Elenai Dodge 2
+Removed Mob Properties Randomness
+Added Random Crits
+Added Cave Dweller Reimagined
+Added JER Integration
+Added ParCool
