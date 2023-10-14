@@ -18,7 +18,7 @@
 	"enableRustedNormanHelmet": true,
 	"enableRustedCrusaderArmor": true,
 	"enableXIVCenturyKnightArmor": true,
-	"enableWingedHussarArmor": true,
+	"enableWingedHussarArmor": false,
 	"enableCuirassierArmor": true,
 	"enableKastenbrustArmor": true,
 	"enableLamellarArmor": true

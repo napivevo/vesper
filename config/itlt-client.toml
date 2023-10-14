@@ -357,7 +357,7 @@
 		# - "ModpackName v2 based on %mc" = "ModpackName v2 based on Minecraft* 1.19"
 		# 
 		# Note: enableCustomWindowTitle must be enabled for this to take effect.
-		customWindowTitleText = "Requiem 3.0.5"
+		customWindowTitleText = "Vesper 3.0.7"
 
 	[Display.Icon]
 		# 

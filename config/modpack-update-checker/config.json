@@ -1,8 +1,8 @@
 {
   "schemaVersion": 3,
-  "currentVersion": "3.0.5",
-  "modpackName": "MUNGCRAFT: REQUIEM",
-  "githubRepo": "https://raw.githubusercontent.com/napivevo/mungcraft-requiem/main/updatechecker/",
+  "currentVersion": "3.0.7",
+  "modpackName": "Vesper",
+  "githubRepo": "https://raw.githubusercontent.com/napivevo/vesper/main/updatechecker/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
