@@ -1,0 +1,16 @@
+{
+    "name": "Parkour",
+    "icon": "minecraft:feather",
+    "category": "patchouli:mechanics",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Along with your weapons ability, your mobility has been expanded.$(br2)Press $(2)'ALT'$() while moving in any direction to perform a dodge.$(br2)Hold $(2)'SHIFT'$() while running to break into a sprint that actively consumes stamina."
+        },
+				{
+            "type": "patchouli:text",
+			"title": "",
+            "text": "There are many other parkour options available as well, for example, press $(2)'C'$() while running to slide or while walking to prone.$(br2)The best way to learn how to use these parkour options as well as discover new ones is to experiment.$(br2)The heavier the armor you wear, the less agile you will find yourself."
+        }
+    ]
+}
