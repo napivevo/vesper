@@ -1,0 +1,14 @@
+Replaced steel with knightmetal
+Simplified and improved gear progression
+Increased chances of weapons with rarity overall
+Nerfed creepers, endermen, & creeper cena
+Updated several mods
+Updated Forge Version
+Removed Epic Knights Mod
+Removed Create: Alloyed
+Added Obscure API
+Added Simple Weapons
+Added The Aether
+Added Grappling Hook Mod
+Added Model Gap Fix
+Added Tiny Coal
