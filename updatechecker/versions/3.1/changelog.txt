@@ -1,7 +1,10 @@
+Added new dimension: The Aether
 Replaced steel with knightmetal
 Simplified and improved gear progression
+Added several new items
 Increased chances of weapons with rarity overall
 Nerfed creepers, endermen, & creeper cena
+
 Updated several mods
 Updated Forge Version
 Removed Epic Knights Mod
