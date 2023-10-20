@@ -1,0 +1,5 @@
+Improved main menu dramatically
+Removed magic for now
+Repaired incinerator recipe
+
+Removed Iron’s Spells and Spellbooks
