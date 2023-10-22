@@ -1,0 +1,2 @@
+Made further changes to main menu
+Fixed Aether music not playing
