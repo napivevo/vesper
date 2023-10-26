@@ -1,0 +1,19 @@
+Replaced menu engine
+Changed mob health bar display
+Added several new mods to the overworld
+Added many new structures to the overworld
+Expanded farmers delight automation with create
+Expanded the aether
+Removed starter gear
+
+Removed PackMenu
+Removed Starter Kit
+Added Creatures and Beasts
+Added Enderman Overhaul
+Added Revised Phantoms
+Added Drippy Loading Screen
+Added Fancymenu
+Added Neat
+Added Phillip’s Ruins
+Added Create Slice and Dice
+Added The Aether: Redux
