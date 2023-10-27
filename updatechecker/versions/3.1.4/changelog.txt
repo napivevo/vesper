@@ -1,0 +1,23 @@
+!!Fixed guidebook not appearing in inventory!!
+Added hordes back
+Added a second moon to the night sky
+Added a new fishing minigame
+Further expanded create integration with farmer’s delight and added brewing
+Added many new overworld songs
+Migrated loot integrations to lootJS, expanding artifacts to all chests
+Added custom loading screen tips
+Made creepers creepier
+
+Removed Creatures and Beasts
+Removed Dynamic Music
+Removed Loot Integrations
+Added Bunch o Bugs
+Added Brewin and Chewin
+Added Celestial
+Added Create Style Modded Compats
+Added Create Central Kitchen
+Added Fishing Minigame
+Added Simple Discord Rich Presence
+Added Low on Fire
+Added Anchor
+Added The Hordes
