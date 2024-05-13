@@ -1,1 +1,103 @@
+Updated Forge version and all out of date mods
+Improved effect display
 
+Added Variable Mob Height
+Added No Telemetry
+Added Stylish Effects
+
+Updated Forge version from 43.3.2 to 43.3.13
+Updated AeroBlender
+Updated Architect’s Palette
+Updated Architectury API
+Updated Armor Set Bonuses
+Updated Artifacts
+Updated AttributeFix
+Updated Better chunk loading
+Updated Better Fps - Render Distance
+Updated BlockUI
+Updated Born in Chaos
+Updated Brutal Bosses
+Updated Campfire Spawn and Tweaks
+Updated Canary
+Updated Chat Heads
+Updated Chunk Sending
+Updated Cloth Config API
+Updated Collective
+Updated Comforts
+Updated CoroUtil
+Updated Crafting Tweaks
+Updated CraftTweaker
+Updated Create
+Updated Create Central Kitchen
+Updated Cupboard
+Updated Curios API
+Updated Drippy Loading Screen
+Updated Dynamic Trees
+Updated Enderman Overhaul
+Updated Enhanced AI
+Updated Every Compat
+Updated FancyMenu
+Updated Farmer’s Delight
+Updated FTB Backups 2
+Updated Gliders
+Updated Guard Villagers
+Updated ImmediatelyFast
+Updated In Control!
+Updated Iron’s Rpg Tweaks
+Updated Jade
+Updated Jade Addons
+Updated Just Enough Items
+Updated Just Enough Resources
+Updated Konkrete
+Updated KubeJS
+Updated KubeJS Create
+Updated L_Ender’s Cataclysm
+Updated Macaw’s Bridges
+Updated Macaw's Fences and Walls
+Updated Macaw's Paintings
+Updated Macaw’s Paths and Pavings
+Updated Macaw’s Roofs
+Updated Macaw’s Trapdoors
+Updated Majrusz Library
+Updated Majrusz’s Enchantments
+Updated Map Atlases
+Updated MineColonies
+Updated Modern UI
+Updated ModernFix
+Updated Modpack Update Checker
+Updated Moonlight Lib
+Updated mutil
+Updated Not Enough Animations
+Updated ParCool!
+Updated Philip’s Ruins
+Updated Placebo
+Updated PolyLib
+Updated Polymorph
+Updated Project: Vibrant Journeys
+Updated Radiant Gear
+Updated Random Crits
+Updated Recipe Essentials
+Updated Responsive Shields
+Updated Rhino
+Updated Saturn
+Updated Savage Ender Dragon
+Updated Server Performance - Smooth Chunk Save
+Updated Shield Expansion
+Updated Simple Discord Rich Presence
+Updated Simple Weapons
+Updated Skin Layers
+Updated Smooth Boot
+Updated Sound Physics Remastered
+Updated Structurize
+Updated Styleclonies
+Updated Supplementaries
+Updated Terralith
+Updated The Aether
+Updated The Aether: Reflux
+Updated The Hordes
+Updated Villager Names
+Updated Weaker Spiderwebs
+Updated YUNG’s API
+Updated YUNG’s Better Mineshafts
+
+Removed Ksyxis
