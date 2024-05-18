@@ -1,1 +1,16 @@
+Added tons of new structures to the Overworld
+Reverted L_Ender’s Cataclysm mod version, this mod is amazing but the owner has decided to use it to force a vanilla server advertisement in later versions.
+Increased artifact rarity
+Changed modpack update checker info screen
 
+Added Dungeons and Taverns
+
+Updated Chat Heads
+Updated Dynamic Trees
+Updated Dynamic Trees - Terralith
+Updated Dynamic Trees +
+Updated Macaw’s Paths and Pavings
+Updated Macaw’s Trapdoors
+
+Removed Stylish Effects
+Removed JEITweaker (made irrelevant by KubeJS)
